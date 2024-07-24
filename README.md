@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @VaibhavForWork12
-- 👀 I’m interested in coda
-- 🌱 I’m currently learning New Coda
-- - 💞️ I’m looking to collaborate on Coda
-- 📫 How to reach me X-Don't Even Msg-X
+Hi there, I'm Vaibhav Wankar! 👋
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in web development, machine learning, and open source. Here you'll find a collection of my projects, contributions, and some of my favorite pieces of code.
+
+🔧 Technologies & Tools
+Languages: JavaScript, Python(Intermediate), C++
+Frameworks/Libraries: React, Next.js, Tailwind CSS, Node.js, Express.js
+Databases: MongoDB Atlas , MySQL
+Tools: Git, VSCode, Postman
+Others: RESTful APIs, GraphQL, CI/CD
 
 <!---
 VaibhavForWork12/VaibhavForWork12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
