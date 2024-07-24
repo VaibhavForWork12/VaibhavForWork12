@@ -3,10 +3,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 🔧 Technologies & Tools
 - Languages: JavaScript, Python(Intermediate), C++
-- Frameworks/Libraries: React, Next.js, Tailwind CSS, Node.js, Express.js
+- Frameworks/Libraries: React, Next.js, Tailwind CSS
 - Databases: MongoDB Atlas , MySQL
 - Tools: Git, VSCode, Postman
-- Others: RESTful APIs, GraphQL, CI/CD
+- Others: RESTful APIs
 
 <!---
 VaibhavForWork12/VaibhavForWork12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
