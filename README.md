@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 🔧 Technologies & Tools
 - Languages: JavaScript(elementary), Python(Intermediate), C++
-- Frameworks/Libraries: React, Next.js, Tailwind CSS
+- Frameworks/Libraries: React, Next.js, Tailwind CSS, PyTorch
 - Databases: MongoDB Atlas, MySQL
 - Tools: Git, VSCode, Postman, Cursor
 - Others: RESTful APIs, GCP Cloud, AWS Cloud, Azure 
